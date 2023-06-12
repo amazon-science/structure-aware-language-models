@@ -4,4 +4,4 @@ scikit_learn==1.0.1
 torch==1.13.1
 torch_geometric==2.0.1
 tqdm==4.62.3
-transformers==4.11.3
+transformers==4.30.0
